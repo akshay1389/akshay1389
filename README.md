@@ -78,34 +78,64 @@ timeline
 
 ```mermaid
 mindmap
-  root((Backend
-    Engineering))
+  root((Skills))
     Languages
-      Golang
-      Java
       Python
+      C/C++
+      Java
+      Golang
     Frameworks
       Spring Boot
-      FastAPI
-      Express.js
-    Cloud & DevOps
-      AWS
-      Docker
-      Jenkins
-      CI/CD
-    Data & Messaging
-      MySQL
-      Redis
+      Django
+      Flask
+      Node.js
+      React
+      Kafka
       RabbitMQ
-    Monitoring
-      Prometheus
-      Grafana
-      Logging
-    Security
-      JWT
-      OAuth2
+    Web
+      HTML/CSS
+      JavaScript
+      REST APIs
+    Networking
+      TCP/IP
+      HTTP
+      WebSocket
       NETCONF
+      JSON/XML/YAML
+    Databases
+      MySQL
+      PostgreSQL
+      MongoDB
+    DevOps
+      Git
+      Docker
+      Kubernetes
+      Jenkins
+      AWS
+      Azure
+      CI/CD
+    AI/ML
+      LangChain
+      LangGraph
+      RAG
+      LLMOps
+      Vector DBs
 ```
+
+<div align="center">
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Programming Languages** | Python, C/C++, Java, Golang |
+| **Frameworks & Libraries** | Spring Boot, Django, Flask, Node.js, React, RabbitMQ, Apache Kafka |
+| **Web Technologies** | HTML, CSS, JavaScript, React, REST APIs |
+| **Networking / Protocols** | TCP/IP, UDP, Ethernet, HTTP, NETCONF, Server-Sent Events, WebSocket, REST, JSON, XML, YAML |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Build / DevOps** | Git, Linux, Bash, Docker, Jenkins, Kubernetes, Azure, AWS (EC2, S3, Lambda), CI/CD |
+| **Tools & Platforms** | JIRA, CLI, Selenium, JUnit, Matplotlib, Debugging, Log Analysis, MATLAB, Cursor, Copilot |
+| **AI / ML** | Generative AI, LLMOps, Model Fine-Tuning (LoRA, GPTQ), Vector Databases, LangChain, LangGraph, RAG Architecture |
+
+</div>
 
 <div align="center">
 
@@ -173,13 +203,14 @@ TypeScript REST API starter with JWT authentication, role-based authorization, E
 ### Languages & Tools I Work With
 
 ```text
-Golang         ███████████████████░░   90%
+Python         ███████████████████░░   90%
 Java           ██████████████████░░░   85%
-Python         █████████████████░░░░   80%
-TypeScript     ████████████░░░░░░░░░   55%
+Golang         █████████████████░░░░   80%
+C/C++          ███████████████░░░░░░   70%
+JavaScript     ████████████░░░░░░░░░   55%
 SQL            ██████████████░░░░░░░   65%
 Docker         ████████████████░░░░░   75%
-AWS            █████████████░░░░░░░░   60%
+AWS / Azure    █████████████░░░░░░░░   60%
 ```
 
 <div align="center">
