@@ -166,11 +166,23 @@ TypeScript REST API starter with JWT authentication, role-based authorization, E
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay1389&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay1389&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&text_color=c9d1d9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshay1389&theme=tokyonight&hide_border=true&background=1a1b27&ring=3b82f6&fire=60a5fa&currStreakLabel=c9d1d9)
+
+</div>
+
+### Languages & Tools I Work With
+
+```text
+Golang         ███████████████████░░   90%
+Java           ██████████████████░░░   85%
+Python         █████████████████░░░░   80%
+TypeScript     ████████████░░░░░░░░░   55%
+SQL            ██████████████░░░░░░░   65%
+Docker         ████████████████░░░░░   75%
+AWS            █████████████░░░░░░░░   60%
+```
+
+<div align="center">
 
 </div>
 
