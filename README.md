@@ -46,7 +46,66 @@ IS INFOTECH LTD          Software Engineer II            Apr 2017 - Nov 2020
 
 ---
 
+## Career Timeline
+
+```mermaid
+timeline
+    title Engineering Journey
+    section Early Career
+    2017-2020 : Software Engineer II
+              : IS Infotech Ltd, India
+              : Java microservices
+              : Spring Boot, Redis, RabbitMQ
+    section Growth
+    2023-2024 : Software Engineer
+              : Extreme Networks, San Jose
+              : Golang backend systems
+              : 50% config time reduction
+    section Current
+    2024-Present : Backend Software Engineer
+                 : Brex, San Francisco
+                 : Financial APIs
+                 : Docker, AWS
+    section Education
+    2025 : MS Computer Science
+         : UT Arlington
+         : GPA 3.90
+```
+
+---
+
 ## Tech Stack
+
+```mermaid
+mindmap
+  root((Backend
+    Engineering))
+    Languages
+      Golang
+      Java
+      Python
+    Frameworks
+      Spring Boot
+      FastAPI
+      Express.js
+    Cloud & DevOps
+      AWS
+      Docker
+      Jenkins
+      CI/CD
+    Data & Messaging
+      MySQL
+      Redis
+      RabbitMQ
+    Monitoring
+      Prometheus
+      Grafana
+      Logging
+    Security
+      JWT
+      OAuth2
+      NETCONF
+```
 
 <div align="center">
 
