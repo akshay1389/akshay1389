@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=Akshay%20Basavalingaiah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer%20%7C%20Golang%20%7C%20Java%20%7C%20Python&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=Akshay%20B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer%20%7C%20Golang%20%7C%20Java%20%7C%20Python&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@ Currently pursuing my **MS in Computer Science at UT Arlington (GPA: 3.90)** whi
 ## Work Experience
 
 ```
-BREX                     Backend Software Engineer       Feb 2024 - Present
+BREX                     Backend Software Engineer       Feb 2025 - Present
   - Building and optimizing backend APIs for high-volume financial transactions
   - Working with Docker, AWS, and observability tools (logging, monitoring, alerting)
   - Collaborating with cross-functional teams to ship features faster
@@ -62,7 +62,7 @@ timeline
               : Golang backend systems
               : 50% config time reduction
     section Current
-    2024-Present : Backend Software Engineer
+    2025-Present : Backend Software Engineer
                  : Brex, San Francisco
                  : Financial APIs
                  : Docker, AWS
